@@ -6,10 +6,10 @@ The tkinter package (“Tk interface”) is the standard Python interface to the
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
 ```bash
-pip install foobar
+pip install tkinter
 ```
 ```bash
 pip install pytube
